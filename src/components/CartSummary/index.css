@@ -1,0 +1,24 @@
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+}
+.amount-container {
+  display: flex;
+  align-items: center;
+}
+.amount-sub-heading {
+  color: #616e7c;
+}
+.amount-heading {
+  color: #171f46;
+}
+.cart-items {
+  color: #616e7c;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 0px;
+}
+.cart-summary-container {
+  width: 300px;
+  align-self: flex-end;
+}
